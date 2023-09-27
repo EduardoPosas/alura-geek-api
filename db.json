@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1472457897821-70d3819a0e24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2669&q=80",
+            "category": "Star Wars",
+            "name": "lego cabezas",
+            "price": "500",
+            "description": "muñeco lego guardia star wars",
+            "id": 4
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1601814933824-fd0b574dd592?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2612&q=80",
+            "category": "Star Wars",
+            "name": "baby yoda",
+            "price": "550",
+            "description": "muñeco coleccionable baby yoda",
+            "id": 5
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2638&q=80",
+            "category": "Consolas",
+            "name": "xbox series s",
+            "price": "6500",
+            "description": "xbox series s color blanco con control inalámbrico",
+            "id": 6
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1590341328520-63256eb32bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80",
+            "category": "Otros",
+            "name": "lego superman",
+            "price": "1000",
+            "description": "muñeco lego superman",
+            "id": 8
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1579986965247-608bb43de2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2565&q=80",
+            "category": "Otros",
+            "name": "Lego aquaman y joker",
+            "price": "670",
+            "description": "legos coleccionables de aquaman y joker",
+            "id": 10
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2690&q=80",
+            "category": "Arte",
+            "name": "Flores rustico",
+            "price": "1200",
+            "description": "cuadro de flores al óleo",
+            "id": 11
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1617864064479-f203fc7897c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80",
+            "category": "Consolas",
+            "name": "PlayStation 5",
+            "price": "8000",
+            "description": "play station 5 blanco",
+            "id": 14
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2718&q=80",
+            "category": "Arte",
+            "name": "Universium pic",
+            "price": "1200",
+            "description": "cuadro amplio universo",
+            "id": 16
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1591182136289-67ff16828fd4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80",
+            "category": "Consolas",
+            "name": "Nintendo Switch",
+            "price": "13000",
+            "description": "Nintendo switch color rojo con mandos",
+            "id": 17
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=30",
+            "category": "Arte",
+            "name": "Le Blanc illusion",
+            "price": "3000",
+            "description": "arte de ilusión fondo blanco",
+            "id": 18
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "category": "Consolas"
+        },
+        {
+            "id": 2,
+            "category": "Star Wars"
+        },
+        {
+            "id": 3,
+            "category": "Otros"
+        },
+        {
+            "id": 4,
+            "category": "Arte"
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "email": "correo@correo.com",
+            "password": "12345678"
+        },
+        {
+            "id": "2",
+            "email": "correo2@correo.com",
+            "password": "87654321"
+        }
+    ]
+}
