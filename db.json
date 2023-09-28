@@ -1,15 +1,7 @@
 {
     "products": [
         {
-            "imageUrl": "https://images.unsplash.com/photo-1472457897821-70d3819a0e24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2669&q=80",
-            "category": "Star Wars",
-            "name": "lego cabezas",
-            "price": "500",
-            "description": "muñeco lego guardia star wars",
-            "id": 4
-        },
-        {
-            "imageUrl": "https://images.unsplash.com/photo-1601814933824-fd0b574dd592?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2612&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1601814933824-fd0b574dd592?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Star Wars",
             "name": "baby yoda",
             "price": "550",
@@ -17,7 +9,7 @@
             "id": 5
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2638&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Consolas",
             "name": "xbox series s",
             "price": "6500",
@@ -25,7 +17,7 @@
             "id": 6
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1590341328520-63256eb32bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1590341328520-63256eb32bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Otros",
             "name": "lego superman",
             "price": "1000",
@@ -33,7 +25,7 @@
             "id": 8
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1579986965247-608bb43de2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2565&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1579986965247-608bb43de2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Otros",
             "name": "Lego aquaman y joker",
             "price": "670",
@@ -41,7 +33,7 @@
             "id": 10
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2690&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Arte",
             "name": "Flores rustico",
             "price": "1200",
@@ -49,7 +41,7 @@
             "id": 11
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1617864064479-f203fc7897c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1617864064479-f203fc7897c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Consolas",
             "name": "PlayStation 5",
             "price": "8000",
@@ -57,7 +49,7 @@
             "id": 14
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2718&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Arte",
             "name": "Universium pic",
             "price": "1200",
@@ -65,7 +57,7 @@
             "id": 16
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1591182136289-67ff16828fd4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=80",
+            "imageUrl": "https://images.unsplash.com/photo-1591182136289-67ff16828fd4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Consolas",
             "name": "Nintendo Switch",
             "price": "13000",
@@ -73,12 +65,116 @@
             "id": 17
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2574&q=30",
+            "imageUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
             "category": "Arte",
             "name": "Le Blanc illusion",
             "price": "3000",
             "description": "arte de ilusión fondo blanco",
             "id": 18
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1589632727880-664c976618ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Star Wars",
+            "name": "Androide",
+            "price": "200",
+            "description": "androide r8",
+            "id": 19
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1521985179118-6008b8cef2c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Star Wars",
+            "name": "Darth Vader",
+            "price": "1200",
+            "description": "funko darth vader",
+            "id": 20
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1584847642060-a46e239155a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Star Wars",
+            "name": "Lego Batman",
+            "price": "450",
+            "description": "Lego batman edición star wars",
+            "id": 21
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1589661654496-f5222b481fe0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Star Wars",
+            "name": "Lego r2d2",
+            "price": "550",
+            "description": "Lego arturito",
+            "id": 22
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1654574716963-45715e66e597?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Star Wars",
+            "name": "Lego chewbacca",
+            "price": "550",
+            "description": "Funko Chewbacca",
+            "id": 23
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1603009516102-14d93178f395?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Consolas",
+            "name": "Mando PlayStation 5",
+            "price": "2300",
+            "description": "Mando PlayStation 6 inalámbrico",
+            "id": 24
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1587653666447-8a232c92e881?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Consolas",
+            "name": "Super Nintendo 64",
+            "price": "1800",
+            "description": "Super Nintendo 64 colección",
+            "id": 25
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1632803227975-b6a5688c9c46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Consolas",
+            "name": "PlayStation One",
+            "price": "2000",
+            "description": "Consola PlayStation One con dos controles",
+            "id": 26
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1494666144702-70d86c6cf884?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Consolas",
+            "name": "GameCube",
+            "price": "3000",
+            "description": "GameCube coleccionable con mando alámbrico",
+            "id": 27
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1558865869-c93f6f8482af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Arte",
+            "name": "Abstracción Griega",
+            "price": "4500",
+            "description": "Pintura moderna de la antigua Grecia",
+            "id": 28
+        },
+        {
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1682125291930-1427e5d80e5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Arte",
+            "name": "Color de rosa",
+            "price": "3000",
+            "description": "Pintura abstracta color de rosa",
+            "id": 29
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1606663889134-b1dedb5ed8b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Otros",
+            "name": "Guky SS2",
+            "price": "780",
+            "description": "Muñeco coleccionable dragon ball Z",
+            "id": 30
+        },
+        {
+            "imageUrl": "https://images.unsplash.com/photo-1606894436761-7a742916220a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=680&q=20",
+            "category": "Otros",
+            "name": "Majin Boo",
+            "price": "450",
+            "description": "Muñeco coleccionable majin boo dragon ball",
+            "id": 31
         }
     ],
     "categories": [
